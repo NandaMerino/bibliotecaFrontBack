@@ -23,6 +23,7 @@
 
 - **Back-end:**
   - Java
+  -  - Spring Boot
 
 ## Instalação e Uso
 
@@ -37,7 +38,7 @@ Para clonar o repositório e executar o projeto localmente, siga os seguintes pa
    
 2. Navegue até o diretório do front-end:
    ```bash
-   cd bibliotecaFrontBack/front
+   cd bibliotecaFrontBack/biblioteca
    ```
    
 3. Instale as dependências:
@@ -58,7 +59,7 @@ Para clonar o repositório e executar o projeto localmente, siga os seguintes pa
 
 1. Navegue até o diretório do back-end:
    ```bash
-   cd bibliotecaFrontBack/back
+   cd bibliotecaFrontBack/bibliotecaBack
    ```
 
 2. Compile e execute o projeto utilizando seu ambiente de desenvolvimento Java.
@@ -66,6 +67,6 @@ Para clonar o repositório e executar o projeto localmente, siga os seguintes pa
 
 ## Estrutura do Projeto
 
-- `front/`: Contém os arquivos do projeto front-end.
-- `back/`: Contém os arquivos do projeto back-end.
+- `biblioteca/`: Contém os arquivos do projeto front-end.
+- `bibliotecaBack/`: Contém os arquivos do projeto back-end.
 - `README.md`: Este arquivo de documentação.
