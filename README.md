@@ -23,7 +23,7 @@
 
 - **Back-end:**
   - Java
-  -  - Spring Boot
+  - Spring Boot
 
 ## Instalação e Uso
 
